@@ -22,4 +22,5 @@ describe(`Podcast`, () => {
                 });
         });
     });
+    process.exit(1);
 });
